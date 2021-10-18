@@ -1,0 +1,19 @@
+package myInfo;
+
+class Personal {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Name : Tan Zhi Xian");
+		System.out.println("No. Matric : 284333");
+		System.out.println("Age : 19");
+		System.out.println("Date of Birth : 15th September 2002");
+		System.out.println("Education : University Utara Malaysia");
+		System.out.println("Course : Bachelor of Computer Science with Honours");
+		System.out.println("Mother's Name : Goh Pook Nee");
+		System.out.println("Sister's Name : Tan Xiao Xian");
+		System.out.println("Address : 71, Taman Sri Ampang, Jalan Kenanga 3, 05050 Alor Setar, Kedah");
+
+	}
+
+}
