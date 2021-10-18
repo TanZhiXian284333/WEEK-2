@@ -15,8 +15,9 @@ class MyLife {
 		System.out.println("7:00 p.m. - 7:30 p.m. : Back to inasis");
 		System.out.println("7:30 p.m. - 8:00 p.m. : Rest");
 		System.out.println("8:00 p.m. - 10:00 p.m. : Do assignment and revision for today class");
-		System.out.println("10:00 p.m. - 11:00 p.m. : Entertainment time e.g.playing mobile games or watch short videos on tiktok");
-		System.out.println("11:00 p.m. : The end of the day");
+		System.out.println("10:00 p.m. - 12:00 a.m. : 2 hours for programming work");
+		System.out.println("12:00 a.m. - 1:00 a.m. : Entertainment time e.g.playing mobile games or watch short videos on tiktok");
+		System.out.println("1:00 a.m. : The end of the day");
 
 	}
 
