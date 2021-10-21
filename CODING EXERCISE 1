@@ -1,4 +1,4 @@
-package myLife;
+package exercise1;
 
 class MyLife {
 
@@ -18,7 +18,6 @@ class MyLife {
 		System.out.println("10:00 p.m. - 12:00 a.m. : 2 hours for programming work");
 		System.out.println("12:00 a.m. - 1:00 a.m. : Entertainment time e.g.playing mobile games or watch short videos on tiktok");
 		System.out.println("1:00 a.m. : The end of the day");
-
 	}
 
 }
